@@ -1,0 +1,999 @@
+<!doctype html>
+<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="sl"><![endif]-->
+<!--[if IE 7]><html class="no-js lt-ie9 lt-ie8" lang="sl"><![endif]-->
+<!--[if IE 8]><html class="no-js lt-ie9" lang="sl"><![endif]-->
+<!--[if gt IE 8]><![endif]-->
+<html class="no-js" lang="sl">
+<head>
+	<base href="https://www.gov.si/"><!--[if lte IE 6]></base><![endif]-->
+	<title>Koronavirus COVID-19 | GOV.SI</title>
+	<meta charset="UTF-8">
+	<meta http-equiv="x-ua-compatible" content="ie=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="generator" content="SilverStripe - https://www.silverstripe.org" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<link rel="alternate" hreflang="en-IE" href="https://www.gov.si/en/topics/coronavirus-disease-covid-19/" />
+
+	<link rel="alternate" hreflang="hu-HU" href="https://www.gov.si/hu/temak/koronavirus/" />
+
+	<link rel="alternate" hreflang="it-IT" href="https://www.gov.si/it/argomenti/coronavirus/" />
+
+	<link rel="alternate" hreflang="sl-SI" href="https://www.gov.si/teme/koronavirus/" />
+
+
+	
+	<meta property="og:type" content="article" />
+<meta property="og:title" content="Koronavirus COVID-19 | GOV.SI" />
+
+<meta property="og:url" content="https://www.gov.si/teme/koronavirus/" />
+<meta property="og:image" content="https://www.gov.si/assets/vlada/Koronavirus-zbirno-infografike-vlada/aktualni-podatki/Trend-obolelosti-0324-v2.jpg" />
+<meta property="og:site_name" content="Portal GOV.SI" /> 
+
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:title" content="Koronavirus COVID-19 | GOV.SI" />
+
+<meta name="twitter:image" content="https://www.gov.si/assets/vlada/Koronavirus-zbirno-infografike-vlada/aktualni-podatki/Trend-obolelosti-0324-v2.jpg" />
+<meta name="twitter:site" content="@vladaRS" />
+	<link rel="apple-touch-icon" sizes="57x57" href="/resources/themes/gov/images/favicon/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/resources/themes/gov/images/favicon/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/resources/themes/gov/images/favicon/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/resources/themes/gov/images/favicon/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/resources/themes/gov/images/favicon/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/resources/themes/gov/images/favicon/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/resources/themes/gov/images/favicon/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/resources/themes/gov/images/favicon/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/resources/themes/gov/images/favicon/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/resources/themes/gov/images/favicon/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/resources/themes/gov/images/favicon/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/resources/themes/gov/images/favicon/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/resources/themes/gov/images/favicon/favicon-16x16.png">
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="icon" href="/favicon.ico" type="image/x-icon" />
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/resources/themes/gov/images/favicon/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+
+	
+	<link rel="canonical" href="https://www.gov.si/teme/koronavirus/" />
+
+	<script src="/resources/themes/gov/javascript/libs/modernizr.js?m=1555668158"></script>
+
+	
+		<link rel="stylesheet" href="/resources/themes/gov/css/style.css?m=1584350019" media="(min-width: 2px)"/>
+		<link rel="stylesheet" href="/resources/themes/gov/css/print.css?m=1552647259"/>
+	
+
+	<!--[if lt IE 9]>
+		<link rel="stylesheet" href="/resources/themes/gov/css/style-ie.css?m=1584350019">
+	<![endif]-->
+	
+	
+<script type="text/javascript">
+	var _paq = window._paq || [];
+
+	_paq.push(['trackPageView']);
+	_paq.push(['enableLinkTracking']);
+
+	(function() {
+		var u="//www.gov.si/analitika/";
+		_paq.push(['setTrackerUrl', u + 'matomo.php']);
+		_paq.push(['setSiteId', '1']);
+		var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+		g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
+	}) ();
+</script>
+	
+</head>
+
+
+
+<body class="ArticlePage">
+
+
+
+
+<div id="wrapper">
+	<header class="header">
+	
+	
+	<div class="adapt">
+		
+		<a class="skip-to-content" href="/teme/koronavirus/#content"
+		   aria-label="Skoči do osrednje vsebine"
+		   data-string-open="Skoči do osrednje vsebine"><span class="skip-to-content-hide">Skoči do osrednje vsebine</span></a>
+
+		<a aria-label="Na vstopno stran" href="/" class="brand sl_SI" rel="home">
+			<h1>
+				
+				
+				
+				
+				<img src="/resources/themes/gov/images/RS_gov_si-logo.gif"
+					 srcset="
+						 /resources/themes/gov/images/svg2png/RS_gov_si-logo.png 1x,
+						 /resources/themes/gov/images/svg2png/RS_gov_si-logo2x.png 2x,
+						 /resources/themes/gov/images/svg2png/RS_gov_si-logo4x.png 3x"
+					 class="logo" alt="GOV.SI">
+				
+				
+
+				
+				
+				
+				
+				
+				
+				
+				<span aria-hidden="true" class="visuallyhidden">GOV.SI</span>
+			</h1>
+		</a>
+
+		<nav class="navigation">
+	<a href="/teme/koronavirus/#search" class="navi-btn open-search search-btn search-btn-mobile ficon-search"
+	   aria-label="Pritisnite enter, da se vam odpre iskalnik"><span class="visuallyhidden">Išči</span></a>
+	<button class="navi-btn open-navigation"
+			aria-label="Odpri meni z navigacijo"
+			data-string-close="Zapri navigacijo"
+			data-string-open="Odpri navigacijo"><span class="visuallyhidden">Odpri navigacijo</span></button>
+	<div class="inner">
+		<button aria-label="Zapri meni z navigacijo" type="button" class="close-navigation-btn close-popup-btn close-navigation"><span class="visuallyhidden">Zapri menu</span></button>
+		<div class="menus">
+			
+			
+				<ul class="primary">
+					
+						<li class="link">
+							<a href="/podrocja/">Področja</a>
+						</li>
+					
+						<li class="link">
+							<a href="/drzavni-organi/">Državni organi</a>
+						</li>
+					
+						<li class="link">
+							<a href="/zbirke/">Zbirke</a>
+						</li>
+					
+						<li class="link">
+							<a href="/dogodki/">Dogodki</a>
+						</li>
+					
+						<li class="link">
+							<a href="/novice/">Novice</a>
+						</li>
+					
+				</ul>
+			
+
+			
+			
+				<ul class="support">
+					
+						
+							<li class="link">
+								<a href="/sodelujte/">Sodelujte</a>
+							</li>
+						
+					
+						
+							<li class="link">
+								<a href="/o-spletiscu/">O spletišču</a>
+							</li>
+						
+					
+				</ul>
+			
+			
+			
+		</div>
+
+		
+			<a href="/iskanje/" class="open-search btn-default search-btn search-btn-desktop search"
+			   aria-label="Pritisnite enter, da se vam odpre iskalnik"><i class="ficon-search"></i><span>Išči</span></a>
+		
+
+		<ul class="support-links">
+			<li class="lang-menu">
+				<button aria-label="Odpri izbirnik za jezik" type="button" class="open-language open-language-btn"><i class="ficon-translate"> </i><span>Slovenščina</span></button>
+			</li>
+			<li class="language-select-dd">
+				
+				
+<label for="language-select" class="visuallyhidden">Izberite jezik</label>
+<select id="language-select" name="language-select" aria-label="Izberite jezik">
+	
+	<option value="/en/topics/coronavirus-disease-covid-19/">English</option>
+	
+	<option value="/teme/koronavirus/" selected>Slovenščina</option>
+	
+	
+	<optgroup label="  ----  ">
+		
+		<option value="/hu/temak/koronavirus/">Magyar</option>
+		
+		<option value="/it/argomenti/coronavirus/">Italiano</option>
+		
+	</optgroup>
+</select>
+
+
+
+
+				
+			</li>
+			
+		</ul>
+	</div>
+
+</nav>
+
+
+
+	</div>
+</header>
+
+
+
+
+
+	<main id="content" class="main">
+		<article class="article-page">
+
+	<div class="page-head">
+	
+<div class="breadcrumbs-container top-adapt">
+	<div class="scrollable">
+		<div class="inner adapt">
+<div class="breadcrumbs">
+	
+		<div itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
+			<a href="/" itemprop="url"><span itemprop="title">Domov</span></a>
+			<i></i>
+		</div>
+	
+
+	
+		<div itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
+			
+				<a href="/podrocja/" itemprop="url">
+					<span itemprop="title">Področja</span>
+				</a>
+				<i></i>
+			
+		</div>
+	
+		<div itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
+			
+				<a href="/podrocja/zdravje/" itemprop="url">
+					<span itemprop="title">Zdravje</span>
+				</a>
+				<i></i>
+			
+		</div>
+	
+		<div itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
+			
+				<a href="/podrocja/zdravje/preventiva-in-skrb-za-zdravje/" itemprop="url">
+					<span itemprop="title">Preventiva in skrb za zdravje</span>
+				</a>
+				<i></i>
+			
+		</div>
+	
+		<div itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
+			
+				<a href="/podrocja/zdravje/preventiva-in-skrb-za-zdravje/obvladovanje-nalezljivih-bolezni/" itemprop="url">
+					<span itemprop="title">Obvladovanje nalezljivih bolezni</span>
+				</a>
+				<i></i>
+			
+		</div>
+	
+		<div itemscope itemtype="http://data-vocabulary.org/Breadcrumb" class="last">
+			
+		</div>
+	
+</div>
+		</div>
+	</div>
+</div>
+
+	<div class="adapt">
+		<h1>Koronavirus COVID-19</h1>
+		
+		
+	</div>
+</div>
+
+
+
+
+
+
+
+
+    
+	
+		<nav class="subpage-navigation">
+			<div class="inner adapt">
+				<ul>
+					
+						
+							<li>
+								<a href="/teme/koronavirus/koronavirus-ukrepi-za-zajezitev-sirjenja/" title="Koronavirus: Ukrepi za zajezitev širjenja"><i class="ficon-arrow_right"></i> <span>Ukrepi za zajezitev širjenja</span></a>
+							</li>
+						
+					
+						
+							<li>
+								<a href="/teme/koronavirus/preprecevanje-okuzbe/" title="Koronavirus: Preprečevanje okužb"><i class="ficon-arrow_right"></i> <span>Preprečevanje okužb</span></a>
+							</li>
+						
+					
+						
+							<li>
+								<a href="/teme/koronavirus/koronavirus-simptomi-okuzbe-in-zdravljenje/" title="Koronavirus: Simptomi okužbe in zdravljenje "><i class="ficon-arrow_right"></i> <span>Simptomi okužbe in zdravljenje </span></a>
+							</li>
+						
+					
+						
+							<li>
+								<a href="/teme/koronavirus/navodila-za-potnike/" title="Koronavirus: Priporočila potnikom"><i class="ficon-arrow_right"></i> <span>Priporočila potnikom</span></a>
+							</li>
+						
+					
+						
+							<li>
+								<a href="/teme/koronavirus/za-izvajalce-zdravstvene-dejavnosti/" title="Za izvajalce zdravstvene dejavnosti"><i class="ficon-arrow_right"></i> <span>Za izvajalce zdravstvene dejavnosti</span></a>
+							</li>
+						
+					
+						
+							<li>
+								<a href="/teme/koronavirus/vladni-ukrepi/" title="Vladni ukrepi"><i class="ficon-arrow_right"></i> <span>Vladni ukrepi</span></a>
+							</li>
+						
+					
+				</ul>
+			</div>
+		</nav>
+	
+
+
+	<div class="adapt v-adapt article">
+
+		<div class="cols article-cols">
+
+			<div class="content col left grid-col-8">
+				<div class="intro">
+					<p></p>
+				</div>
+
+				
+
+				
+
+				<div class="content-blocks elements">
+					
+    
+	   
+<div class="legislation-element__table table-module block " id="e65441">
+	<div class="adapt">
+		<div class="inner">
+
+			
+				<h2 class="element-title">Aktualni podatki za 24. marec 2020</h2>
+			
+
+			
+				
+			
+				
+			
+				<table class="table stripes">
+			
+				
+
+					
+						<thead>
+						
+							<tr>
+								
+									<th scope="col" class="align-center">Datum</th>
+								
+									<th scope="col" class="align-center">testirani</th>
+								
+									<th scope="col" class="align-center">pozitivni</th>
+								
+									<th scope="col" class="align-center">hospitalizirani</th>
+								
+									<th scope="col" class="align-center">intenzivna nega</th>
+								
+									<th scope="col" class="align-center">umrli</th>
+								
+							</tr>
+						
+						</thead>
+					
+					<tbody>
+					
+						
+						
+					
+						
+							<tr>
+								
+										<td class="align-center">24. 3. 2020</td>
+								
+										<td class="align-center">1058</td>
+								
+										<td class="align-center">36</td>
+								
+										<td class="align-center">65</td>
+								
+										<td class="align-center">10</td>
+								
+										<td class="align-center">1</td>
+								
+							</tr>
+						
+					
+					</tbody>
+				</table>
+				<div class="table-footer">
+					
+						<p class="source">
+							<strong>Vir</strong> Ministrstvo za zdravje
+						</p>
+					
+					<ul class="files">
+						<li><a href="/teme/koronavirus/element/65441/xlsx"><span>Excel</span><i>xlsx</i></a></li>
+						<li><a href="/teme/koronavirus/element/65441/csv"><span>Comma delimited</span><i>csv</i></a></li>
+						<li><a href="/teme/koronavirus/element/65441/ods"><span>OpenDocument Spreadsheet</span><i>ods</i></a></li>
+					</ul>
+				</div>
+
+				
+
+				
+
+				
+			
+		</div>
+	</div>
+</div>
+
+    
+	   <div class="image-element__image image-module " id="e65446">
+	<div class="adapt">
+		<div class="inner">
+			
+		
+			
+				<div class="images">
+					
+						
+							<figure>
+									<a data-fancybox="group-65446" href="/assets/vlada/Koronavirus-zbirno-infografike-vlada/aktualni-podatki/Trend-obolelosti-0324-v2.jpg" data-alt="Grafični prikaz števila hospitaliziranih oseb in oseb v intenzivni negi." data-caption="12. marca je bilo v bolnišnični oskrbi 9, 24. marca pa 65 oseb. 12. marca je bilo na intenzivni negi 5 oseb, 24. marca pa 10." class="">
+										<img src="/assets/vlada/Koronavirus-zbirno-infografike-vlada/aktualni-podatki/Trend-obolelosti-0324-v2__FitWzk4MCw5ODAsImY1M2U0MWJlY2QiXQ.jpg" alt="Grafični prikaz števila hospitaliziranih oseb in oseb v intenzivni negi." />
+									</a>
+									
+										<figcaption>
+											<p>
+												
+												12. marca je bilo v bolnišnični oskrbi 9, 24. marca pa 65 oseb. 12. marca je bilo na intenzivni negi 5 oseb, 24. marca pa 10.
+											</p>
+										</figcaption>
+									
+							</figure>
+						
+					
+				</div>
+				
+			
+		</div>
+	</div>
+</div>
+
+
+    
+	   <div class="teaser-element__teaser teaser-module __content-module  block" id="e65051">
+	<div class="adapt">
+		<div class="sidebar-adapt">
+			<div class="inner">
+				
+					<h2 class="element-title">Obvestilo tujim državljanom na območju Slovenije</h2>
+				
+				<div class="typo">
+				<p>Tujim državljanom, ki se nahajate na območju Slovenije in se zaradi aktualnih razmer ne morete vrniti v matično državo, priporočamo, da se po pomoč obrnete na najbližje <a href="/zbirke/drzave/" title="Povezava na zbirko Države">diplomatsko predstavništvo vaše države.</a>&nbsp;</p>
+				</div>
+
+				
+					
+				
+			</div>
+		</div>
+	</div>
+</div>
+    
+	   <div class="typo content-element__content content-module" id="e61263">
+	<div class="adapt">
+		<div class="inner rte">
+			
+			<h2>Epidemija</h2><p>Slovenija je 12. marca ob 18. uri na podlagi 7. člena zakona o nalezljivih boleznih zaradi naraščanja števila primerov okužb s koronavirusom razglasila epidemijo. Aktiviran je tudi državni načrt.&nbsp;Podlaga za razglasitev epidemije je strokovno mnenje NIJZ. S tem sledimo včerajšnji razglasitvi pandemije Svetovne zdravstvene organizacije.</p><p>Vse pristojne institucije že ves čas natančno spremljajo dogajanje, obveščajo javnost o preventivnih ukrepih, sproti pa sprejemajo tudi ukrepe za zajezitev širjenja okužb pri nas.</p><p></p>
+		</div>
+	</div>
+</div>
+
+    
+	   <div class="typo content-element__content content-module" id="e62926">
+	<div class="adapt">
+		<div class="inner rte">
+			
+			<p></p><p>Nacionalni inštitut za javno zdravje in pristojni resorji so pripravili natančna <strong>navodila za različne ciljne javnosti:</strong></p><ul><li>navodila <a href="https://www.nijz.si/sites/www.nijz.si/files/uploaded/navodila_za_osebe_s_sumom_na_covid-19_doma_kratka_za_splet.pdf" title="Navodila za osebe, okužene s koronavirusom">osebam, okuženim s koronavirusom</a></li>
+<li>navodila <a href="https://www.nijz.si/sl/koronavirus-zdravstveni-delavci" target="_blank" rel="noopener" title="Navodila za zdravstveno osebje">zdravstvenemu osebju</a> in <a href="https://www.nijz.si/sl/koronavirus-epidemiologi" target="_blank" rel="noopener" title="Navodila za epidemiologe">epidemiologom</a></li>
+<li>navodila <a href="https://www.nijz.si/navodila-za-delovne-organizacije-v-zvezi-z-novim-koronavirusom-sars-cov-2" target="_blank" rel="noopener" title="Navodila za delovne organizacije">delovnim organizacijam</a></li>
+<li>navodila za&nbsp;<a href="https://www.nijz.si/sl/navodila-za-letalisce-ob-pojavu-suma-na-koronavirus-sars-cov-2" target="_blank" rel="noopener" title="Navodila za letališče">letališče</a></li>
+<li>navodila za <a href="https://www.nijz.si/sl/navodila-za-pristanisce-ob-pojavu-suma-na-koronavirus-sars-cov-2" target="_blank" rel="noopener" title="Navodila za pristanišče">pristanišče</a></li>
+<li>navodila <a href="https://www.nijz.si/sl/navodila-za-policijo-vojsko-in-carino-ob-pojavu-suma-na-koronavirus-sars-cov-2" target="_blank" rel="noopener" title="Navodila zaposlenim v policiji, vojski in carini">zaposlenim v&nbsp;</a>policiji, vojski in carini</li>
+<li>navodila za&nbsp;<a href="https://www.nijz.si/sl/navodila-za-zaposlene-v-notranjem-in-mednarodnem-prometu" target="_blank" rel="noopener" title="Za zaposlene v notranjem in mednarodnem prometu">zaposlene v notranjem in mednarodnem prometu</a></li>
+<li>priporočila za <a href="https://www.nijz.si/sl/priporocila-za-preprecevanje-okuzb-dihal-in-drugih-podobnih-obolenj-v-vrtcihsolah" target="_blank" rel="noopener" title="Priporočila za vrtce in šole">vrtce in šole</a></li>
+<li>priporočila glede <a href="https://www.nijz.si/sl/priporocila-glede-mnozicnih-dogodkov" target="_blank" rel="noopener" title="Priporočila glede množičnih prireditev">množičnih dogodkov</a></li>
+</ul>
+		</div>
+	</div>
+</div>
+
+    
+	   <div class="teaser-element__teaser teaser-module __content-module  block" id="e64574">
+	<div class="adapt">
+		<div class="sidebar-adapt">
+			<div class="inner">
+				
+					<h2 class="element-title">Klicni center za informacije o koronavirusu - 080 1404</h2>
+				
+				<div class="typo">
+				<p>V pomoč prebivalcem pri iskanju zanesljivih informacij v zvezi z novim koronavirusom je Urad vlade za komuniciranje v sodelovanju z Ministrstvom za zdravje, Nacionalnim inštitutom za javno zdravje, Infekcijsko kliniko, Upravo RS za zaščito in reševanje ter Ministrstvom za javno upravo vzpostavil <a href="/teme/koronavirus/koronavirus-ukrepi-za-zajezitev-sirjenja/klicni-center/">klicni center</a>.</p><p>Na <strong>brezplačni telefonski številki 080 1404</strong> lahko dobite informacije vsak dan med 8. in 20. uro. Če kličete <strong>iz tujine</strong>, je klicni center dosegljiv na <strong>+386 1 478 7550</strong></p><p>Klicateljem na vprašanja odgovarjajo študentje višjih letnikov Medicinske fakultete pod mentorstvom ustreznih strokovnih služb / strokovnjakov.</p>
+				</div>
+
+				
+					
+						<p><a href="tel:00386801404" class="btn-default Phone">Pokličite 080 1404 </a></p>
+					
+				
+			</div>
+		</div>
+	</div>
+</div>
+    
+	   
+	<div class="news-list-element__news content-module block " id="e62684">
+		<div class="adapt">
+			<div class="inner">
+				
+					<h2 class="element-title">AKTUALNO</h2>
+					
+
+				<ul class="list news-list">
+					
+						<li class="list-item">
+							
+								<div class="datetime">
+									
+										<time x-ms-format-detection="none">24. 3. 2020</time>
+										
+									
+								</div>
+							
+							<h3 class="title">
+								
+									<a href="/novice/2020-03-24-6-redna-seja-vlade-republike-slovenije/">6. redna seja Vlade Republike Slovenije</a>
+								
+							</h3>
+						</li>
+					
+						<li class="list-item">
+							
+								<div class="datetime">
+									
+										<time x-ms-format-detection="none">24. 3. 2020</time>
+										
+									
+								</div>
+							
+							<h3 class="title">
+								
+									<a href="/novice/2020-03-24-dodatni-ukrepi-na-podrocju-ginekologije-in-porodnistva-na-primarnem-nivoju/">Dodatni ukrepi na področju ginekologije in porodništva na primarnem nivoju</a>
+								
+							</h3>
+						</li>
+					
+						<li class="list-item">
+							
+								<div class="datetime">
+									
+										<time x-ms-format-detection="none">24. 3. 2020</time>
+										
+									
+								</div>
+							
+							<h3 class="title">
+								
+									<a href="/novice/2020-03-24-strokovna-posvetovalna-skupina-o-obseznih-ukrepih-za-zajezitev-posledic-epidemije-za-drzavljane-in-podjetja/">Strokovna posvetovalna skupina o obsežnih ukrepih za zajezitev posledic epidemije za državljane in podjetja</a>
+								
+							</h3>
+						</li>
+					
+						<li class="list-item">
+							
+								<div class="datetime">
+									
+										<time x-ms-format-detection="none">24. 3. 2020</time>
+										
+									
+								</div>
+							
+							<h3 class="title">
+								
+									<a href="/novice/2020-03-24-poudarki-dneva-z-mizs-24-3-2020/">Poudarki dneva z MIZŠ, 24. 3. 2020</a>
+								
+							</h3>
+						</li>
+					
+						<li class="list-item">
+							
+								<div class="datetime">
+									
+										<time x-ms-format-detection="none">24. 3. 2020</time>
+										
+									
+								</div>
+							
+							<h3 class="title">
+								
+									<a href="/novice/2020-03-24-predsednik-vlade-janez-jansa-skupaj-z-ministri-predstavil-protikorona-paket-za-pomoc-prebivalstvu-in-gospodarstvu/">Predsednik vlade Janez Janša skupaj z ministri predstavil protikorona paket za pomoč prebivalstvu in gospodarstvu</a>
+								
+							</h3>
+						</li>
+					
+				</ul>				
+			</div>
+			<div class="btn-group">
+				
+					<div class="more-link">
+						<a href="/novice/?tag[]=554" class="btn-blank">Vse novice</a>
+					</div>
+				
+
+				
+			</div>
+
+		</div>
+	</div>
+
+    
+	   <div class="teaser-element__teaser teaser-module __content-module  block" id="e65476">
+	<div class="adapt">
+		<div class="sidebar-adapt">
+			<div class="inner">
+				
+				<div class="typo">
+				<p>Služba Vlade RS za zakonodajo je v Pravno-informacijskem sistemu (PIS) objavila seznam veljavnih predpisov, sprejetih za preprečevanje širjenja bolezni Covid-19. Razvrščeni so kronološko, seznam pa se objavlja sproti, glede na objave v Uradnem listu.&nbsp;</p>
+				</div>
+
+				
+					
+						<p><a href="http://www.pisrs.si/Pis.web/aktualno" class="btn-default URL" target="_blank" rel="noopener">Predpisi, sprejeti za zajezitev širjenja bolezni covid-19 <span class="ficon-external_link"></span></a></p>
+					
+				
+			</div>
+		</div>
+	</div>
+</div>
+    
+	   <div class="typo content-element__content content-module" id="e62024">
+	<div class="adapt">
+		<div class="inner rte">
+			
+			<h2>Ali vas skrbi, da ste okuženi?&nbsp;</h2><p>Če ste zboleli (kašelj, vročina, težko dihanje), prosimo, da:</p><ul><li>Ostanete doma in se izogibajte stikom z ljudmi.</li>
+<li><strong>Pokličete osebnega</strong>&nbsp;zdravnika oz. dežurnega zdravnika v najbližji dežurni ambulanti, če kličete izven delovnega časa vašega zdravnika.</li>
+<li>Zdravnik bo potrdil ali ovrgel sum na okužbo. Če bo sum upravičen, vas bo napotil na najbližjo zdravstveno ustanovo - vstopno točko za odvzem brisa.&nbsp;</li>
+<li>Do te zdravstvene ustanove se peljite z osebnim avtomobilom in ne z javnim prevozom (vlak, avtobus, taksi). Kašljajte v robec ali rokav. Pred odhodom od doma si umijte roke z vodo in milom.</li>
+<li>Zdravnik, ki vam bo vzel bris, bo glede na vaše zdravstveno stanje ocenil, kje boste počakali na rezultate testa.</li>
+<li>Po prejemu rezultata vas bo zdravnik obvestil o nadaljnjih ukrepih.</li>
+</ul><p></p><p></p>
+		</div>
+	</div>
+</div>
+
+    
+
+
+				</div>
+			</div>
+			<div class="content-sidebar col right grid-col-4 elements">
+				
+    
+	   <div class="teaser-element__teaser teaser-module __content-module  block" id="e62677">
+	<div class="adapt">
+		<div class="sidebar-adapt">
+			<div class="inner">
+				
+					<h2 class="element-title">Pogosta vprašanja in odgovori</h2>
+				
+				<div class="typo">
+				<p>Nacionalni inštitut za javno zdravje (NIJZ) objavlja odgovore na najpogostejša vprašanja v zvezi s koronavirusom. Vsebine se dnevno dopolnjujejo.&nbsp;</p>
+				</div>
+
+				
+					
+						<p><a href="https://www.nijz.si/sl/koronavirus-pogosta-vprasanja-in-odgovori" class="btn-default URL">Spletno mesto NIJZ <span class="ficon-external_link"></span></a></p>
+					
+				
+			</div>
+		</div>
+	</div>
+</div>
+    
+	   <div class="teaser-element__teaser teaser-module __content-module  block" id="e64629">
+	<div class="adapt">
+		<div class="sidebar-adapt">
+			<div class="inner">
+				
+					<h2 class="element-title">Ukrepi za omilitev posledic</h2>
+				
+				<div class="typo">
+				<p>Gospodarstvo, v Sloveniji in v svetu, že čuti posledice širjenja koronavirusa. Ministrstvo za gospodarski razvoj in tehnologijo je že pripravilo <a href="/novice/2020-03-12-posodobljeno-ukrepi-mgrt-na-vpliv-koronavirusa/">prvi nabor ukrepov za pomoč podjetjem</a>. Več informacij:&nbsp;<strong><a href="mailto:korona.mgrt@gov.si">korona.mgrt@gov.si</a>&nbsp;</strong></p>
+				</div>
+
+				
+					
+				
+			</div>
+		</div>
+	</div>
+</div>
+    
+	   
+<div class="documents-element__documents documents-module _content-module  block" id="e62048">
+	<div class="adapt">
+
+		<div class="inner">
+			
+
+			<ul class="list document-list">
+				
+					<li class="list-item">
+						<div class="document-item">
+	<h3>Infografike z napotki, priporočili in pojasnili, povezane s koronavirusom</h3>
+
+	<div class="summary">(verzije za tisk)</div>
+
+	
+		<div class="document-info">
+			Urad Vlade Republike Slovenije za komuniciranje
+		</div>
+	
+
+	<ul class="list-in-list files">
+		
+			<li>
+				<i class="icon ficon-document"></i>
+				<a href="/assets/vlada/Koronavirus-zbirno-infografike-vlada/Infografike/Kako_zascititi_sebe_in_otroke.pdf" class="pdf">Kako zaščititi sebe in otroke</a>
+				<small>(pdf, 874 KB)</small>
+			</li>
+		
+			<li>
+				<i class="icon ficon-document"></i>
+				<a href="/assets/vlada/Koronavirus-zbirno-infografike-vlada/Infografike/Zascitne_maske.pdf" class="pdf">Uporaba zaščitnih mask</a>
+				<small>(pdf, 526 KB)</small>
+			</li>
+		
+			<li>
+				<i class="icon ficon-document"></i>
+				<a href="/assets/vlada/Koronavirus-zbirno-infografike-vlada/Infografike/Testiranje_na-okuzbo_s-koronavirusom.pdf" class="pdf">Testiranje</a>
+				<small>(pdf, 1,5 MB)</small>
+			</li>
+		
+			<li>
+				<i class="icon ficon-document"></i>
+				<a href="/assets/vlada/Koronavirus-zbirno-infografike-vlada/Infografike/Koronavirus_mit01.pdf" class="pdf">Razbijamo mite: Hišni ljubljenčki in koronavirus</a>
+				<small>(pdf, 560 KB)</small>
+			</li>
+		
+			<li>
+				<i class="icon ficon-document"></i>
+				<a href="/assets/vlada/Koronavirus-zbirno-infografike-vlada/Infografike/DELO-LABORATORIJEV-OB-TESTIRANJU-NA-SARS-CoV-2_k.pdf" class="pdf">Delo laboratorijev ob testiranju na SARS coV-2-k</a>
+				<small>(pdf, 703 KB)</small>
+			</li>
+		
+			<li>
+				<i class="icon ficon-document"></i>
+				<a href="/assets/vlada/Koronavirus-zbirno-infografike-vlada/Infografike/prikaz-situacij-MDDSZ.pdf" class="pdf">Odsotnost z dela - situacije</a>
+				<small>(pdf, 461 KB)</small>
+			</li>
+		
+	</ul>
+</div>
+					</li>
+				
+			</ul>			
+		</div>
+	</div>
+</div>
+
+    
+	   <div class="teaser-element__teaser teaser-module __content-module  block" id="e61262">
+	<div class="adapt">
+		<div class="sidebar-adapt">
+			<div class="inner">
+				
+					<h2 class="element-title">Aktualne razmere v svetu</h2>
+				
+				<div class="typo">
+				<p>Sprotno beleženje primerov v svetu:&nbsp;<a href="https://www.worldometers.info/coronavirus/" target="_blank" rel="noopener">Worldometers</a></p><p>Informacije o širjenju koronavirusa pa lahko spremljate na spletnih mestih <a href="https://ec.europa.eu/info/live-work-travel-eu/health/coronavirus-response_en">Evropske unije</a>&nbsp;in <a href="https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports/">Svetovne zdravstvene organizacije</a>.&nbsp;</p><p>Objavljamo tudi <a href="/zbirke/drzave/">aktualne informacije po posameznih državah</a>.&nbsp;</p>
+				</div>
+
+				
+					
+				
+			</div>
+		</div>
+	</div>
+</div>
+    
+
+
+			</div>
+			<div class="content-footer col grid-col-12 elements">
+				
+
+			</div>
+		</div>
+
+
+	</div>
+
+</article>
+	</main>
+	<div class="adapt">
+		<div class="scroll-top-wrapper">
+			<button class="scroll-top-btn hidden smooth-anchor is-hidden cant-show"><i class="icon ficon-arrow_up"></i><span class="visuallyhidden">Na vrh strani...</span></button>
+		</div>
+	</div>
+	<footer class="footer">
+	
+	<div class="feedback-block">
+		<div class="adapt v-adapt">
+			<div class="feedback">
+			
+				<div class="question">
+					<p><strong>Pomagajte nam izboljšati spletišče</strong></p>
+					<p>Ali vam je ta stran koristila? <a class="trigger" aria-label="Odgovor DA" data-type="yes" href="/teme/koronavirus/#DA">DA</a> <a aria-label="Odgovor NE" class="trigger" data-type="no" href="/teme/koronavirus/#NE">NE</a></p>
+				</div>
+				
+				<div class="form" style="display: none;">
+
+					<form action="/home/feedback" id="feedback-form" method="post">
+						<fieldset>
+							<legend class="visuallyhidden">Obrazec za odziv</legend>
+							<div aria-hidden="true" class="field name hidden">
+								<textarea aria-label="Skrivna šifra" aria-hidden="true" name="name"></textarea>
+							</div>
+							
+							<div class="field">
+								<label for="feedback-comment">Vaš komentar / utemeljitev</label>
+								<textarea aria-label="Vaš komentar / utemeljitev" name="comment" id="feedback-comment"></textarea>
+							</div>
+							
+							<div class="action">
+								<input aria-hidden="true" type="hidden" name="type" class="type">
+								<input aria-hidden="true" type="hidden" name="url" value="https://www.gov.si/teme/koronavirus/">
+								<input aria-label="Pošlji" type="submit" value="Pošlji">
+								<button aria-label="Zapri" class="close btn-blank feedback-close" href="#">Zapri</button>
+							</div>
+						</fieldset>
+					</form>
+				</div>
+				
+				<p class="success" style="display: none;">Hvala za vaš odziv.</p>
+			</div>
+		
+		</div>
+	</div>
+	
+	
+	
+	<div class="inner">
+		<div class="adapt">
+			<div class="page-meta-details">
+	
+	
+		
+		<dl><dt>Odgovorna institucija:</dt> <dd><a href="/drzavni-organi/vladne-sluzbe/urad-vlade-za-komuniciranje/">Urad Vlade Republike Slovenije za komuniciranje</a></dd></dl>
+	
+	
+	
+		<dl>
+			<dt>Zadnja sprememba:</dt>
+			<dd>25. 3. 2020</dd>
+		</dl>
+	
+</div>
+			<p class="copyright">&copy; 2020 GOV.SI</p>
+		</div>
+	
+	</div>	
+	
+</footer>
+
+
+
+<div class="search-popup">
+	<button aria-label="Zapri iskalnik" type="button" class="close-search-btn close-popup-btn close-search "><span class="visuallyhidden">Zapri iskalnik</span></button>
+	<form action="/iskanje/">
+		
+		<fieldset>
+			<legend class="visuallyhidden">Iskalnik</legend>
+			<div class="field">
+				<input type="search" name="q" aria-label="Vnesite iskalni niz in pritisnite enter" placeholder="Išči">
+			</div>
+			<div class="action">
+				<button type="submit" name="submit" class="submit ficon-search" aria-label="Sprožite iskanje"><span class="visuallyhidden">Išči</span></button>
+			</div>
+		</fieldset>
+	
+	</form>
+</div>
+
+<div class="language-popup">
+	<button aria-label="Zapri izbirnik za jezik" type="button" class="close-language-btn close-popup-btn close-language"><span class="visuallyhidden">Zapri izbirnik jezika</span></button>
+	
+	
+<div class="language-select-list">
+	<ul class="languages-exposed">
+		<li class="sr-only"><a href="/teme/koronavirus/#" aria-label="Izberite jezik">Izberite jezik</a></li>
+		
+		<li>
+			<a class="lang-start-tab" href="/en/topics/coronavirus-disease-covid-19/" rel="alternate" hreflang="en-IE">English</a>
+		</li>
+		
+		<li class="selected">
+			<a  href="/teme/koronavirus/" rel="alternate" hreflang="sl-SI">Slovenščina</a>
+		</li>
+		
+	</ul>
+
+	<ul class="languages">
+		
+		<li>
+			<a href="/hu/temak/koronavirus/" rel="alternate" hreflang="hu-HU">Magyar</a>
+		</li>
+		
+		<li>
+			<a href="/it/argomenti/coronavirus/" rel="alternate" hreflang="it-IT">Italiano</a>
+		</li>
+		
+	</ul>
+</div>
+
+
+
+
+	
+</div>
+
+</div>
+
+
+<script type="application/javascript" src="/resources/themes/gov/javascript/libs/jquery-3.4.1.min.js?m=1559200532"></script>
+<script type="application/javascript" src="/resources/themes/gov/javascript/libs/ligatures.js?m=1552647259"></script>
+<script type="application/javascript" src="/resources/themes/gov/javascript/libs/underscore.min.js?m=1552647259"></script>
+<script type="application/javascript" src="/resources/themes/gov/javascript/libs/plugins/jquery.advancedtables.v2.1.0.js?m=1552647259"></script>
+<script type="application/javascript" src="/resources/themes/gov/javascript/libs/plugins/jquery.fancybox.min.js?m=1555506797"></script>
+<script type="application/javascript" src="/resources/themes/gov/javascript/libs/plugins/jquery.fancybox.i18n.js?m=1558362253"></script>
+<script type="application/javascript" src="/resources/themes/gov/javascript/libs/plugins/slick.min.js?m=1552647259"></script>
+<script type="application/javascript" src="/resources/themes/gov/javascript/libs/plugins/select2-4.0.5.full.min.js?m=1552647259"></script>
+<script type="application/javascript" src="/resources/themes/gov/javascript/functions.min.js?m=1584350019"></script>
+</body>
+</html>
